@@ -1,14 +1,11 @@
-title: API Reference
+title: SkyPath API Reference
 
 language_tabs:
    - bash
-   - ruby
-   - python
-   - javascript
 
 toc_footers:
    - <a href=#>Sign up for a developer key</a>
-   - <a href=https://www.npmjs.com/package/node-slate>Documentation powered by Slate</a>
+   - <a href=https://yamasee.global>Yamasee SkyPath</a>
 
 includes:
    - main
